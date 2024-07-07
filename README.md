@@ -81,8 +81,6 @@ The format for jump instructions is as follows:
 
 - `single_cycle/`: Contains the Verilog/VHDL files for the single-cycle processor.
 - `multi_cycle/`: Contains the Verilog/VHDL files for the multi-cycle processor.
-- `testbenches/`: Testbench files for simulating the processors.
-- `docs/`: Documentation and additional resources.
 
 ## Contributing
 
