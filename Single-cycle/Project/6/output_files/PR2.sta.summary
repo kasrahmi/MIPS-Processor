@@ -1,0 +1,41 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Setup 'clk'
+Slack : -4.583
+TNS   : -296.680
+
+Type  : Setup 'i_clock'
+Slack : -3.670
+TNS   : -26.780
+
+Type  : Setup 'iCache:inst1|lpm_rom:inst1|altrom:srom|altsyncram:rom_block|altsyncram_cv61:auto_generated|q_a[12]'
+Slack : 0.370
+TNS   : 0.000
+
+Type  : Hold 'clk'
+Slack : -0.370
+TNS   : -0.555
+
+Type  : Hold 'iCache:inst1|lpm_rom:inst1|altrom:srom|altsyncram:rom_block|altsyncram_cv61:auto_generated|q_a[12]'
+Slack : -0.151
+TNS   : -0.587
+
+Type  : Hold 'i_clock'
+Slack : 0.093
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'clk'
+Slack : -2.846
+TNS   : -191.495
+
+Type  : Minimum Pulse Width 'i_clock'
+Slack : -2.846
+TNS   : -16.906
+
+Type  : Minimum Pulse Width 'iCache:inst1|lpm_rom:inst1|altrom:srom|altsyncram:rom_block|altsyncram_cv61:auto_generated|q_a[12]'
+Slack : -1.000
+TNS   : -16.753
+
+------------------------------------------------------------

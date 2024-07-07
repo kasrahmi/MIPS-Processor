@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="PR2">
+		<CBX_INST_ENTRY INSTANCE_NAME="|datapath|ALU:inst9|sub:inst5|adder:inst2|BUSMUX:inst1|lpm_mux:$00000" CBX_FILE_NAME="mux_pnc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|datapath|ALU:inst9|mul:inst8|lpm_mux3:inst17|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_0oc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|datapath|ALU:inst9|mul:inst8|sub:inst6|adder:inst1|lpm_mux1:inst9|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_mnc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|datapath|RegisterFile:inst4|lpm_mux4:inst12|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_5oc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|datapath|adder:inst15|lpm_mux1:inst9|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_mnc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|datapath|lpm_constant1:inst12|lpm_constant:LPM_CONSTANT_component" CBX_FILE_NAME="lpm_constant_sf6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|datapath|ALU:inst9|mul:inst8|lpm_constant0:inst22|lpm_constant:LPM_CONSTANT_component" CBX_FILE_NAME="lpm_constant_pf6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|datapath|ALU:inst9|mul:inst8|sub:inst6|adder:inst1|BUSMUX:inst1|lpm_mux:$00000" CBX_FILE_NAME="mux_pnc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|datapath|ALU:inst9|mul:inst8|sub:inst6|adder:inst2|lpm_mux1:inst9|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_mnc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|datapath|adder:inst15|BUSMUX:inst1|lpm_mux:$00000" CBX_FILE_NAME="mux_pnc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|datapath|adder:inst25|lpm_mux1:inst9|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_mnc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|datapath|iCache:inst1|LPM_ROM:inst1|altrom:srom|altsyncram:rom_block" CBX_FILE_NAME="altsyncram_cv61.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|datapath|lpm_constant1:inst31|lpm_constant:LPM_CONSTANT_component" CBX_FILE_NAME="lpm_constant_sf6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|datapath|lpm_constant2:inst29|lpm_constant:LPM_CONSTANT_component" CBX_FILE_NAME="lpm_constant_ce6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|datapath|ALU:inst9|mul:inst8|BUSMUX:inst21|lpm_mux:$00000" CBX_FILE_NAME="mux_mnc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|datapath|ALU:inst9|mul:inst8|LPM_DFF:inst5|lpm_constant:sc" CBX_FILE_NAME="lpm_constant_ke4.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|datapath|ALU:inst9|mul:inst8|lpm_compare1:inst32|lpm_compare:LPM_COMPARE_component" CBX_FILE_NAME="cmpr_lni.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|datapath|ALU:inst9|mul:inst8|sub:inst6|adder:inst2|BUSMUX:inst1|lpm_mux:$00000" CBX_FILE_NAME="mux_pnc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|datapath|adder:inst25|BUSMUX:inst1|lpm_mux:$00000" CBX_FILE_NAME="mux_pnc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|datapath|adder:inst8|lpm_mux1:inst9|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_mnc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|datapath|ALU:inst9|adder:inst2|lpm_mux1:inst9|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_mnc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|datapath|ALU:inst9|mul:inst8|adder:inst|lpm_mux1:inst9|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_mnc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|datapath|adder:inst8|BUSMUX:inst1|lpm_mux:$00000" CBX_FILE_NAME="mux_pnc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|datapath|dCache:inst28|LPM_RAM_IO:inst|altram:sram|altsyncram:ram_block" CBX_FILE_NAME="altsyncram_hfg1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|datapath|ALU:inst9|adder:inst2|BUSMUX:inst1|lpm_mux:$00000" CBX_FILE_NAME="mux_pnc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|datapath|ALU:inst9|mul:inst8|BUSMUX:inst23|lpm_mux:$00000" CBX_FILE_NAME="mux_snc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|datapath|ALU:inst9|mul:inst8|adder:inst|BUSMUX:inst1|lpm_mux:$00000" CBX_FILE_NAME="mux_pnc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|datapath|ALU:inst9|mul:inst8|lpm_compare0:inst8|lpm_compare:LPM_COMPARE_component" CBX_FILE_NAME="cmpr_h8j.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|datapath|ALU:inst9|mul:inst8|BUSMUX:inst24|lpm_mux:$00000" CBX_FILE_NAME="mux_snc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|datapath|ALU:inst9|sub:inst5|adder:inst1|lpm_mux1:inst9|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_mnc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|datapath|ALU:inst9|mul:inst8|BUSMUX:inst25|lpm_mux:$00000" CBX_FILE_NAME="mux_mnc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|datapath|ALU:inst9|mul:inst8|lpm_counter0:inst7|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_d4i.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|datapath|ALU:inst9|sub:inst5|adder:inst1|BUSMUX:inst1|lpm_mux:$00000" CBX_FILE_NAME="mux_pnc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|datapath|ALU:inst9|sub:inst5|adder:inst2|lpm_mux1:inst9|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_mnc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|datapath|ALU:inst9|mul:inst8|BUSMUX:inst26|lpm_mux:$00000" CBX_FILE_NAME="mux_mnc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|datapath|RegisterFile:inst4|lpm_mux4:inst11|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_5oc.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

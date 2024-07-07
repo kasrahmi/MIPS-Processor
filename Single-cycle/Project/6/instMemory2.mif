@@ -1,0 +1,91 @@
+-- Copyright (C) 1991-2013 Altera Corporation
+-- Your use of Altera Corporation's design tools, logic functions 
+-- and other software and tools, and its AMPP partner logic 
+-- functions, and any output files from any of the foregoing 
+-- (including device programming or simulation files), and any 
+-- associated documentation or information are expressly subject 
+-- to the terms and conditions of the Altera Program License 
+-- Subscription Agreement, Altera MegaCore Function License 
+-- Agreement, or other applicable license agreement, including, 
+-- without limitation, that your use is for the sole purpose of 
+-- programming logic devices manufactured by Altera and sold by 
+-- Altera or its authorized distributors.  Please refer to the 
+-- applicable agreement for further details.
+
+-- Quartus II generated Memory Initialization File (.mif)
+
+WIDTH=16;
+DEPTH=256;
+
+ADDRESS_RADIX=HEX;
+DATA_RADIX=HEX;
+
+CONTENT BEGIN
+	[000..001]  :   0000;
+	002  :   2084;
+	003  :   0000;
+	004  :   F004;
+	005  :   0000;
+	006  :   E022;
+	007  :   0000;
+	008  :   3242;
+	009  :   0000;
+	00A  :   63C1;
+	00B  :   0000;
+	00C  :   6280;
+	00D  :   0000;
+	00E  :   20C2;
+	00F  :   0000;
+	010  :   8694;
+	011  :   0000;
+	012  :   20C1;
+	013  :   0000;
+	014  :   8692;
+	015  :   0000;
+	016  :   20C0;
+	017  :   0000;
+	018  :   8690;
+	019  :   0000;
+	01A  :   3482;
+	01B  :   0000;
+	01C  :   F004;
+	01D  :   0000;
+	01E  :   4905;
+	01F  :   0000;
+	020  :   0828;
+	021  :   0000;
+	022  :   7280;
+	023  :   0000;
+	024  :   7280;
+	025  :   0000;
+	026  :   3483;
+	027  :   0000;
+	028  :   F004;
+	029  :   0000;
+	02A  :   5906;
+	02B  :   0000;
+	02C  :   0B20;
+	02D  :   0000;
+	02E  :   73C1;
+	02F  :   0000;
+	030  :   73C1;
+	031  :   0000;
+	032  :   7280;
+	033  :   0000;
+	034  :   7280;
+	035  :   0000;
+	036  :   2242;
+	037  :   0000;
+	038  :   0E07;
+	039  :   0000;
+	03A  :   2508;
+	03B  :   0000;
+	03C  :   2187;
+	03D  :   0000;
+	03E  :   0D25;
+	03F  :   0000;
+	040  :   2242;
+	041  :   0000;
+	042  :   0E07;
+	[043..0FF]  :   0000;
+END;
