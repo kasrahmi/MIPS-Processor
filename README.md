@@ -19,7 +19,7 @@ The format for register instructions is as follows:
 | ADD         | `rd ← rs + rt`        | 000   |
 | SUB         | `rd ← rs - rt`        | 001   |
 | AND         | `rd ← rs & rt`        | 010   |
-| OR          | `rd ← rs | rt`        | 011   |
+| OR          | `rd ← rs or rt`        | 011   |
 | MULT        | `rd ← rs * rt`        | 100   |
 | XOR         | `rd ← rs ^ rt`        | 101   |
 | JR          | `PC ← rs`             | 111   |
